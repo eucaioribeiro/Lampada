@@ -1,0 +1,20 @@
+header,
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    width: 90px;
+    height: 30px;
+    margin: 2px;
+    color: black;
+    font-family: arial;
+    border-color: black;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #c7c7c7;
+}
